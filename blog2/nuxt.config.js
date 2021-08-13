@@ -30,9 +30,7 @@ export default {
   components: true,
 
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
-  buildModules: [
-     "@nuxtjs/sanity/module"
-  ],
+  buildModules: ["@nuxtjs/sanity"],
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
